@@ -1,7 +1,16 @@
-# push 안할 파일, 폴더의 목록
+# push 안할 폴더의 목록
+figma-sketch/
+.vscode/
 
-!figma-sketch/
-
-# push 안할 확장자
+# push 안할 파일 목록
 *.psd
 *.fig
+*.mp4
+*.wmv
+*.mp3
+*.ogg
+*.pdf
+*.hwp
+*.xls
+*.xlsm
+*.xlsx

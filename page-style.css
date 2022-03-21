@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    text-align: center;
+    background: dodgerblue;
+    color: white;
+    padding: 2rem 0;
+}
+h2 {
+    margin: 1rem;
+}
+h2 + p {
+    margin: 1rem;
+}
+/* code {
+    background: black;
+    color: white;
+} */
